@@ -13,5 +13,10 @@ A simple Python project used to learn the basics of Git and GitHub.
   - `multiply_nums` - Returns the product of two numbers.
 
 ## How to Run
+1. Make sure Python is installed on your computer.
+2. Open the terminal in the project folder.
+3. Run the program using:
 
-`python main.py`
+python main.py
+
+The program will display the results of the arithmetic operations in the terminal.
